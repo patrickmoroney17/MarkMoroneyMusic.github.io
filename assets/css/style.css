@@ -13,10 +13,20 @@ h1 {
 
 
 .bio-image {
+    position: relative;
     float: left;
     transform: rotate(90deg);
 }
 
 .bio-text {
     float: left;
+}
+
+.playingOut {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    padding: 15px;
+    overflow: auto;
 }
