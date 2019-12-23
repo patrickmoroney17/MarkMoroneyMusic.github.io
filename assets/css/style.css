@@ -12,13 +12,9 @@ h1 {
 }
 
 
-.bio-image {
+.bio-div {
+    border: thin solid blue;
     position: relative;
-    float: left;
-    transform: rotate(90deg);
-}
-
-.bio-text {
     float: left;
 }
 
