@@ -51,8 +51,18 @@ h2 {
     padding: 15px;
 }
 
-.pastPerformances {
+/* .pastPerformances {
     font-size: 80%;
+} */
+
+.sub-section-heading {
+    border: thin solid orange;
+    padding: 10px 10px 10px 10px;  
+}
+
+.sub-section-list {
+    border: thin solid purple;
+    padding: 10px 10px 10px 10px;  
 }
 
 .perf {
