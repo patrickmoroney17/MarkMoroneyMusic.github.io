@@ -19,7 +19,6 @@ h1 {
 }
 
 h2 {
-    border: thin solid red;
     font-weight: bold;
 }
 
@@ -56,13 +55,12 @@ h2 {
 } */
 
 .sub-section-heading {
-    border: thin solid orange;
-    padding: 10px 10px 10px 10px;  
+    font-size: 140%;
+    padding: 20px 10px 10px 10px;  
 }
 
 .sub-section-list {
-    border: thin solid purple;
-    padding: 10px 10px 10px 10px;  
+    padding: 10px 10px 10px 20px;  
 }
 
 .perf {
